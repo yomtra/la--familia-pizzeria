@@ -2,3 +2,4 @@
 - soda
 - water 
 - juice
+- Coffee (Espresso, Cappuccino, Latte)
